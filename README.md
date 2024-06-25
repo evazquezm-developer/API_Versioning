@@ -16,8 +16,10 @@ How to test.
 
 #####
 2. http://localhost:5051/api/stringlist
-HEADERS
-	Accept : application/json;ver=2.0
+#####
+In HEADERS add
+#####
+Accept : application/json;ver=2.0
 
 ##### 
 3.- http://localhost:5051/api/v3/stringlist
