@@ -3,7 +3,9 @@ This example implements API versioning.
 
 ####
 1.- In Query string.
+####
 2.- Inside HEADERS key-value pair.
+####
 3.- Inside URL.
 
 #####
